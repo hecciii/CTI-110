@@ -1,6 +1,6 @@
 # Samari Franklin
 # 9/11/2024
-# P2LAB1
+# P2LAB2
 # Assignment tests student's knowledge of how to write code that uses a dictionary 
 
 # create a dictionary 
